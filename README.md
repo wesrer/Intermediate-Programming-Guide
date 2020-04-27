@@ -9,7 +9,7 @@ The Number 1 thing they don't teach you in university but is nonetheless a part 
 
 ### Naming
 
-Naming is very, very important to writing readable code - it's one of the only tools we have to make abstract concepts more approchable. However, naming is not taught or stressed in either academic circles or production environments. Bad names add unnecessary steepness to the learning curve of codebases.
+Naming is very, very important to writing readable code - it's one of the only tools we have to make abstract concepts more approchable. However, naming is not taught or stressed computer science courses or in corporate environments. Bad names add unnecessary steepness to the learning curve of codebases.
 
 Good introduction into the subject matter [Kate Gregory "Naming is Hard: Let's Do Better"](https://www.youtube.com/watch?v=MBRoCdtZOYg)
 
